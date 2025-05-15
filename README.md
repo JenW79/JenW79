@@ -6,6 +6,8 @@ St. Louis, MO | [Portfolio](https://jenw79.github.io/portfolio/) | [LinkedIn](ht
 Welcome to my GitHub! I’m a full-stack developer with a business background and a passion for building smart, user-friendly apps that solve real-world problems. I combine creative thinking with strong technical skills to develop applications that are efficient, scalable, and people-focused.
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JenW79&layout=compact&theme=github_dark)
+---
 
 ### 🔧 Technologies I Work With
 - **Languages & Frameworks:** JavaScript, Python, SQL, React, Redux, Flask, Express, HTML, CSS  
@@ -13,7 +15,9 @@ Welcome to my GitHub! I’m a full-stack developer with a business background an
 - **Also experienced in:** QA Testing, AI Evaluation, SEO & Content Strategy
 
 ---
+### ![Jennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JenW79&show_icons=true&theme=github_dark)
 
+---
 ### 🚀 Featured Projects
 **[Codehire](https://codehire-ie8o.onrender.com)**  
 *AI-powered job tracker with dynamic resume generation.*  
@@ -41,6 +45,10 @@ Stack: Flask, React, Redux, SQLAlchemy, PostgreSQL
 ### ✨ Fun Facts
 - I transitioned into tech after years in business analytics and digital marketing.
 - I love projects that combine strategy, storytelling, and technology.
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JenW79&theme=github-dark)
 
 ---
 
