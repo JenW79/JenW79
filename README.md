@@ -10,8 +10,8 @@ Welcome to my GitHub! I’m a full-stack developer with a business background an
 ---
 
 ### 🔧 Technologies I Work With
-- **Languages & Frameworks:** JavaScript, Python, SQL, React, Redux, Flask, Express, HTML, CSS  
-- **Databases & Tools:** PostgreSQL, Sequelize, SQLAlchemy, Git, REST APIs, TDD  
+- **Languages & Frameworks:** JavaScript, Python, SQL, React Native, Redux, Flask, Express, HTML, CSS, Node.js
+- **Databases & Tools:** PostgreSQL, Sequelize, SQLAlchemy, Git, REST APIs, TDD, NPM
 - **Also experienced in:** QA Testing, AI Evaluation, SEO & Content Strategy
 
 ---
