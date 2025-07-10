@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m a full-stack developer with a business background an
 ---
 
 ### 🔧 Technologies I Work With
-- **Languages & Frameworks:** JavaScript, Python, SQL, React Native, Redux, Flask, Express, HTML, CSS, Node.js
+- **Languages & Frameworks:** JavaScript, Python, SQL, React, Redux, Flask, Express, HTML, CSS, Node.js
 - **Databases & Tools:** PostgreSQL, Sequelize, SQLAlchemy, Git, REST APIs, TDD, NPM
 - **Also experienced in:** QA Testing, AI Evaluation, SEO & Content Strategy
 
@@ -53,7 +53,7 @@ Stack: Flask, React, Redux, SQLAlchemy, PostgreSQL
 ---
 
 ### 🤝 Let’s Connect!
-If you’re looking to collaborate, hire a creative engineer, or chat tech & strategy — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jkwill646/) or check out my [Portfolio](https://jenw79.github.io/portfolio/).
+If you’re looking to collaborate, hire a creative engineer, or chat tech & strategy feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jkwill646/) or check out my [Portfolio](https://jenw79.github.io/portfolio/).
 
 Thanks for stopping by!
 
