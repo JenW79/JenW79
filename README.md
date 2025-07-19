@@ -39,7 +39,7 @@ Stack: Flask, React, Redux, SQLAlchemy, PostgreSQL
 - Advanced AI integrations
 - Websockets for real-time features
 - Improving DevOps skills for deployment & automation
-- Next.js, Typscript, Supabase, TailwindCSS
+- Next.js, Typescript, Supabase, TailwindCSS
 
 ---
 
