@@ -1,6 +1,6 @@
 # Hi, I’m Jennifer Williams!
 
-**Software Developer | Digital Strategist | AI Evaluator | Lifelong Learner**  
+**Software Developer | Digital Strategist | GenAI Evaluator | Lifelong Learner**  
 St. Louis, MO | [Portfolio](https://jenw79.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/jkwill646/)  
 
 Welcome to my GitHub! I’m a full-stack developer with a business background and a passion for building smart, user-friendly apps that solve real-world problems. I combine creative thinking with strong technical skills to develop applications that are efficient, scalable, and people-focused.
