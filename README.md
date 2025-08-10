@@ -37,9 +37,7 @@ Stack: Flask, React, Redux, SQLAlchemy, PostgreSQL
 
 ### 📚 Currently Learning
 - Advanced AI integrations
-- Websockets for real-time features
-- Improving DevOps skills for deployment & automation
-- Next.js, Typescript, Supabase, TailwindCSS
+- Mastering Javascript and Python
 
 ---
 
